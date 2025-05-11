@@ -33,6 +33,7 @@ The mobile app failed to invalidate session refresh tokens after logout or devic
 - Persistent validity even after logout
 - Generation of new access tokens (accessKey, secretKey, sessionToken)
 - Full control over the user's connected IoT devices and home data
+- Private Data Exposure (e.g, mail, phone number, Geolocation coordinates (latitude and longitude)
 
 ---
 
@@ -42,7 +43,7 @@ The mobile app failed to invalidate session refresh tokens after logout or devic
 
 - Refresh tokens should expire shortly after logout
 - Tokens should be single-use only
-- App should enforce device-specific binding (e.g., IP, DeviceID, Geolocation coordinates (latitude and longitude)
+- App should enforce device-specific binding (e.g., IP, DeviceID)
 - Rate limits should be in place for sensitive operations
 
 ### ❌ Observed Weak Behavior

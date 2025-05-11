@@ -33,7 +33,7 @@ The mobile app failed to invalidate session refresh tokens after logout or devic
 - Persistent validity even after logout
 - Generation of new access tokens (accessKey, secretKey, sessionToken)
 - Full control over the user's connected IoT devices and home data
-- Private Data Exposure (e.g, mail, phone number, Geolocation coordinates (latitude and longitude)
+- Sensitive Data Information Disclosure (e.g,mail, phone number, Geolocation coordinates (latitude and longitude
 
 ---
 

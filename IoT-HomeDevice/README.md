@@ -23,6 +23,7 @@ This repository provides a Proof of Concept (PoC) for an **Account Takeover (ATO
 - **Target Device**: IoT Smart Appliance (e.g., Washer)
 - **Network Context**: Internal Wi-Fi, Proxy Server
 
+The same refresh token was tested 100 times within an hour, and each response returned a new set of credentials, consistently granting access to sensitive information.
 ---
 
 ## 📌 Summary

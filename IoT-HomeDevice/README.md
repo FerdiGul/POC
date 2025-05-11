@@ -4,6 +4,7 @@
 This repository provides a Proof of Concept (PoC) for an **Account Takeover (ATO)** vulnerability discovered in a mobile application used to control IoT smart appliances (e.g., smart washers). The vulnerability was identified during a black-box penetration test targeting the iOS version of the application.
 
 <img width="1227" alt="Vulnerable IoT Washer_ Pentest Flow Diagram" src="https://github.com/user-attachments/assets/f79b9ca6-942a-4e0a-91ed-eb64b9ab7a9d" />
+![proxyserver](https://github.com/user-attachments/assets/a20d0d61-d4ed-4bf9-8305-52f547833adc)
 
 ![PoC_Response](https://github.com/user-attachments/assets/16928315-6bda-4308-a173-b8a23771d318)
 

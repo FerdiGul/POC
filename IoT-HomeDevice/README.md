@@ -5,10 +5,12 @@ This repository provides a Proof of Concept (PoC) for an **Account Takeover (ATO
 
 <img width="1227" alt="Vulnerable IoT Washer_ Pentest Flow Diagram" src="https://github.com/user-attachments/assets/f79b9ca6-942a-4e0a-91ed-eb64b9ab7a9d" />
 
+![PoC_Response](https://github.com/user-attachments/assets/16928315-6bda-4308-a173-b8a23771d318)
 
 ---
 
 ## 🔍 Vulnerability Summary
+
 
 - **Type**: Account Takeover (ATO)
 - **CWE**: [CWE-287](https://cwe.mitre.org/data/definitions/287.html) – Improper Authentication
@@ -113,8 +115,7 @@ This vulnerability enables persistent unauthorized access to smart appliances vi
 
 ## 📁 Files
 
-- `poc_refresh_token_reuse.py`: Demonstrates token reuse and API access
-- `Vulnerable_Washer_IoT_Pentest_Flowchart.png`: Visual representation of the attack flow
+- `VulnWasher.py`: Demonstrates token reuse and API access
 
 ---
 

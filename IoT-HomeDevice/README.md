@@ -5,7 +5,8 @@ This repository provides a Proof of Concept (PoC) for an **Account Takeover (ATO
 
 <img width="1227" alt="Vulnerable IoT Washer_ Pentest Flow Diagram" src="https://github.com/user-attachments/assets/f79b9ca6-942a-4e0a-91ed-eb64b9ab7a9d" />
 
-![proxyserver](https://github.com/user-attachments/assets/a20d0d61-d4ed-4bf9-8305-52f547833adc)
+![proxyserver](https://github.com/user-attachments/assets/8544fcb6-5b7b-437a-8b41-e365c3f7a1be)
+
 
 ![PoC_Response](https://github.com/user-attachments/assets/16928315-6bda-4308-a173-b8a23771d318)
 

@@ -1,5 +1,5 @@
 """
-Proof of Concept: Mobile-IoT Control API Token Exchange & Data Access (Account Takeover)
+PoC: Mobile-IoT Control API Token Exchange & Data Access (Account Takeover)
 Author: Ferdi Gül
 GitHub: https://github.com/FerdiGul
 LinkedIn: https://www.linkedin.com/in/gulferdi/

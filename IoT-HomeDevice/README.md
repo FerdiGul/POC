@@ -73,7 +73,6 @@ This repository includes a demonstration script that:
 | Category            | Impact Description                                                                 |
 |---------------------|-------------------------------------------------------------------------------------|
 | Account Takeover    | Full user access for any attacker capturing a valid refresh token                  |
-| Device Hijack       | IoT appliance control (e.g., start, stop, modify appliance behavior)               |
 | Persistence         | Tokens valid across app logouts and device reboots                                 |
 | Scope               | All users of the app may be impacted                                               |
 | Attack Feasibility  | Easy in a shared Wi-Fi or proxy-enabled environment (MITM)                         |
@@ -96,7 +95,6 @@ This repository includes a demonstration script that:
 | CWE ID   | Description                                                        |
 |----------|--------------------------------------------------------------------|
 | CWE-287  | Improper Authentication                                            |
-| CWE-306  | Missing Authentication for Critical Function                       |
 | CWE-384  | Session Fixation (Token binding not enforced or revoked properly)  |
 
 ---

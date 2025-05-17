@@ -92,10 +92,11 @@ This repository includes a demonstration script that:
 
 ## 🛡️ Security Classification
 
-| CWE ID   | Description                                                        |
-|----------|--------------------------------------------------------------------|
-| CWE-287  | Improper Authentication                                            |
-| CWE-384  | Session Fixation (Token binding not enforced or revoked properly)  |
+CWE ID	Description
+CWE-287	Improper Authentication
+CWE-284	Improper Access Control
+CWE-200	Exposure of Sensitive Information to an Unauthorized Actor
+CWE-613	Insufficient Session Expiration (Refresh tokens remain valid post-logout)
 
 ---
 

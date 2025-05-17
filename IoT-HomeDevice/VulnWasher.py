@@ -12,10 +12,10 @@ The sections enclosed in "<>" have been created for demonstration purposes to
 prevent the disclosure of the target company's IoT device and server information.
 
 🔐 Vulnerability Classification (CWE):
-- CWE-284: Improper Access Control
 - CWE-287: Improper Authentication
-- CWE-522: Insufficiently Protected Credentials
+- CWE-284: Improper Access Control
 - CWE-200: Exposure of Sensitive Information to an Unauthorized Actor
+- CWE-613: Insufficient Session Expiration
 
 Educational use only. Do not use without proper authorization.
 """
